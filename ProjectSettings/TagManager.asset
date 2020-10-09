@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RegularGlassDoor
+  - OneSidedGlassDoor
+  - Key
+  - CaptinRoomDoor
+  - ControlRoomDoor
+  - WinningConsole
+  - MainMenu_StartGame
+  - MainMenu_Highscores
+  - MainMenu_HowToPlay
+  - MainMenu_Quit
+  - InformationPlank
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Camera_XY
+  - Camera_ZY
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Inventory
+    uniqueID: 2699802833
+    locked: 0
